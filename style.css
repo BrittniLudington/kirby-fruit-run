@@ -1,0 +1,17 @@
+#groundCanvas
+{
+    z-index: -1;
+    position: absolute;
+}
+
+#playerCanvas
+{
+    z-index: 1;
+    position: absolute;
+}
+
+#displayCanvas
+{
+    z-index: 2;
+    position: absolute;
+}
